@@ -8,7 +8,6 @@ package com.atsxt.git;
 
 public class HelloGit {
     public static void main(String[] args) {
-        //主干第一次提交
         //分支第一次提交
     }
 }
